@@ -8,5 +8,3 @@ def test_example_2():
 
 def test_example_3():
     assert 0 == 0
-
-
